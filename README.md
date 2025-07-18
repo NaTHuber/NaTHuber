@@ -48,6 +48,7 @@ I’m passionate about connecting scientific reasoning with real-world applicati
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
