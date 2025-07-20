@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Natalia Baez — a physicist with a deep curiosity for how physical principles can inspire intelligent systems. My academic background in atomic and quantum physics has taught me to approach complex problems with rigor, creativity, and pattern recognition — skills that I now channel into the fields of data science, artificial intelligence, and software development.
+I'm Nat — a physicist with a deep curiosity for how physical principles can inspire intelligent systems. My academic background in atomic and quantum physics has taught me to approach complex problems with rigor, creativity, and pattern recognition — skills that I now channel into the fields of data science, artificial intelligence, and software development.
 
  **My Journey So Far**  
 - Thesis in atomic physics: _"Atom-Field Interaction in Dispersive Optical Lattices"_  
