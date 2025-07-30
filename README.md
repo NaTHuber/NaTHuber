@@ -59,7 +59,7 @@ I’m passionate about connecting scientific reasoning with real-world applicati
 </div>
 
 ## Areas of interest   
-Quantum AI, Physics-Informed Machine Learning, Data Visualization, Cognitive & Complex Systems
+Quantum AI, Physics-Informed Machine Learning, Data Science, Cognitive & Complex Systems, Programming and Technology. 
 
 ---
 ## Contact 
