@@ -11,9 +11,10 @@ I'm Nat — a physicist with a deep curiosity for how physical principles can in
 - Teaching assistant in computing for physicists 
 
 **What Drives Me**  
-I’m passionate about connecting scientific reasoning with real-world applications. My mission is to contribute to innovative, interdisciplinary projects — especially those that explore the intersection of physics, AI, and human understanding.
+  I’m passionate about connecting scientific reasoning with real-world applications. My mission is to contribute to innovative, interdisciplinary projects — especially those that explore the intersection of physics, AI, and human understanding.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NaTHuber&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+
 ## Technologies:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
