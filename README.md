@@ -61,7 +61,7 @@ I enjoy exploring, understanding, and connecting ideas. My goal is to work on in
 </div>
 
 ## Areas of interest   
-Quantum AI, Physics-Informed Machine Learning, Data Science, Cognitive & Complex Systems, Programming and Technology. 
+Quantum ML, Physics-Informed Machine Learning, Data Science, Cognitive & Complex Systems, Programming and Technology. 
 
 ---
 ## Contact 
