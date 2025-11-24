@@ -8,7 +8,8 @@ I'm Nat, a physicist with a deep curiosity for how physical principles can inspi
 - Thesis in atomic physics: _"Atom-Field Interaction in Dispersive Optical Lattices"_  
 - Professional experience as a **full-stack web developer** in public health institutions
 - Training in data science, Python, and machine learning through hands-on courses and personal projects  
-- Teaching assistant in computing for physicists 
+- Teaching assistant in computing for physicists
+- Currently workings as a data scientist 
 
 **What Drives Me**  
 I enjoy exploring, understanding, and connecting ideas. My goal is to work on interdisciplinary projects, particularly those that explore the intersection of physics, AI, and human understanding.
